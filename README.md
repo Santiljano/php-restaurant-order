@@ -1,5 +1,4 @@
 🥘 Food Order Website Complete Course
-In this course, you'll learn to Create a Complete Dynamic and Fully Functional Website using PHP prrogramming language and MySQL Database.
 
 ⚙️ Technology Used
 HTML5
@@ -11,8 +10,7 @@ Visitors/Users can browse all the Categories and Food Items.
 They also can order easily from the website.
 Admin can Manage Admin, Caegories and Food Items
 Admin can also Manage and Track Food Order and Delivery
-🎓 Access the Course
-Click Here and Learn to develop a fully functional and dynamic "Food Order System" with PHP programming language and MySQL Database.
+
 
 
 📖 How to Download the Project and Run on your PC?
